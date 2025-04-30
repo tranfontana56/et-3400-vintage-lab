@@ -4,3 +4,4 @@ body { font-family: system-ui, sans-serif; margin: 2rem; }
 # avoid re-reading the config on every call
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# guard against empty input
