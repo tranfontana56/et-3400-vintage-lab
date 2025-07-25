@@ -13,3 +13,4 @@ Notes and usage details for et-3400-vintage-lab.
 - add a note about the defaults
 - link the usage section
 - add a note about the defaults
+- link the usage section
