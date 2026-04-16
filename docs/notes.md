@@ -35,3 +35,4 @@ Notes and usage details for et-3400-vintage-lab.
 - clarify the setup steps
 - link the usage section
 - fix a small wording issue
+- add a note about the defaults
