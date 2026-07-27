@@ -49,3 +49,4 @@ Notes and usage details for et-3400-vintage-lab.
 - fix a small wording issue
 - fix a small wording issue
 - clarify the setup steps
+- clarify the setup steps
